@@ -1,5 +1,7 @@
 # Pokémon Ultra
 
+By **Mohammed Taha** ([mohammedtahadev](https://github.com/mohammedtahadev)).
+
 The hub for my Pokémon fan-game projects, with a focus on **screen-reader accessibility** — making these games fully playable for blind players with NVDA.
 
 Each game has its own repository, so you only download what you need. This page is the directory.
@@ -24,6 +26,6 @@ More game repositories will be linked here as they are published.
 
 ## Credits
 
-The accessibility work across these projects builds on **Lorenzo ([fclorenzo](https://github.com/fclorenzo))** and his [pkreborn-access](https://github.com/fclorenzo/pkreborn-access) project for Pokémon Reborn, and on the Pokémon Reborn team's built-in Blindstep accessibility support.
+The mods and the 3D beacon in these projects are by Mohammed Taha; the beacon's audio engine was written with the help of Claude, Anthropic's AI. Pathfinding and auto-walk are the work of **Lorenzo ([fclorenzo](https://github.com/fclorenzo))**, from his [pkreborn-access](https://github.com/fclorenzo/pkreborn-access) project for Pokémon Reborn. Battle speech follows the Pokémon Reborn team's built-in Blindstep accessibility support.
 
 These are fan-made projects, not affiliated with Nintendo, Game Freak or The Pokémon Company. No copyrighted game assets are included in any repository.
