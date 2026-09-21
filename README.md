@@ -12,9 +12,9 @@ Fourteen mods that make Pokémon Desolation fully playable with NVDA: every menu
 
 **Requires:** your own copy of Pokémon Desolation, and NVDA. Full install steps are in that repository's README.
 
-### [Pokémon Reborn: 3D Beacon and Faster Pathfinding](https://github.com/mohammedtahadev/pokemon-reborn-accessibility)
+### [Pokémon Reborn Accessibility Add-ons](https://github.com/mohammedtahadev/pokemon-reborn-accessibility)
 
-Add-ons for Pokémon Reborn, built on Lorenzo's pkreborn-access mods. A Steam Audio 3D beacon (Shift+B) guides you along the real walkable route to any door, person, item or exit in the pathfinder's list, and pauses itself during battles. Also included: an improved version of Lorenzo's pathfinder that no longer freezes or slows down on big, busy maps, and that makes P and the beacon agree on every route.
+Add-ons for Pokémon Reborn, built on Lorenzo's pkreborn-access mods. A Steam Audio 3D beacon (Shift+B) guides you along the real walkable route to any door, person, item or exit in the pathfinder's list, and pauses itself during battles. Spoken damage tells you exactly how much damage every hit deals and how much HP is left. Also included: an improved version of Lorenzo's pathfinder that no longer freezes or slows down on big, busy maps, and that makes P and the beacon agree on every route.
 
 **Requires:** Pokémon Reborn 19.5 with Blindstep on, and Lorenzo's [pkreborn-access](https://github.com/fclorenzo/pkreborn-access) mods. Full install steps are in that repository's README.
 
